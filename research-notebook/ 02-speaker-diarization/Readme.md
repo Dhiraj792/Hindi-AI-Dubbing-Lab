@@ -3,7 +3,6 @@
 ## What is Speaker Diarization?
 
 Speaker diarization is the process of dividing an audio recording into segments and assigning each segment to a speaker.
-
 It answers the question:
 
 **Who spoke when?**
